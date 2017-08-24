@@ -1,0 +1,994 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"visits"
+			],
+			[
+				"Redis",
+				"RedisError"
+			],
+			[
+				"skin",
+				"skinType"
+			],
+			[
+				"API",
+				"APIView"
+			],
+			[
+				"part",
+				"partner_list"
+			],
+			[
+				"par",
+				"partner_list"
+			],
+			[
+				"time",
+				"timezone_offset\t(views.py)"
+			],
+			[
+				"partner",
+				"partner_list\t(models.py)"
+			],
+			[
+				"tre",
+				"trend_data"
+			],
+			[
+				"U",
+				"USER_PW"
+			],
+			[
+				"USE",
+				"USER_PW"
+			],
+			[
+				"RO",
+				"ROOT_PW"
+			],
+			[
+				"sou",
+				"source_folder"
+			],
+			[
+				"US",
+				"USER_NAME"
+			],
+			[
+				"dep",
+				"deploy_tools_folder"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"home",
+				"home_folder"
+			],
+			[
+				"hom",
+				"home_folder"
+			],
+			[
+				"All",
+				"AllowAny"
+			],
+			[
+				"p",
+				"priority"
+			],
+			[
+				"fin",
+				"findOpenX"
+			],
+			[
+				"wal",
+				"wallCourses"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"qu",
+				"queryset"
+			],
+			[
+				"fav",
+				"favorited_by"
+			],
+			[
+				"fa",
+				"favorited_by\t(serializers.py)"
+			],
+			[
+				"qur",
+				"query_params"
+			],
+			[
+				"Ar",
+				"ArticleFeedAPIView\t(views.py)"
+			],
+			[
+				"seri",
+				"serializer_context"
+			],
+			[
+				"sel",
+				"serializer_class"
+			],
+			[
+				"serial",
+				"serializer"
+			],
+			[
+				"Art",
+				"ArticleSerializer"
+			],
+			[
+				"rend",
+				"renderer_classes"
+			],
+			[
+				"permi",
+				"permission_classes"
+			],
+			[
+				"gen",
+				"generics"
+			],
+			[
+				"seria",
+				"serializer"
+			],
+			[
+				"Con",
+				"ConduitJSONRenderer"
+			],
+			[
+				"pa",
+				"pagination_count_label"
+			],
+			[
+				"ren",
+				"renderers"
+			],
+			[
+				"pagiantion",
+				"pagination_object_label"
+			],
+			[
+				"HTT",
+				"HTTP_200_OK"
+			],
+			[
+				"ser",
+				"serializer_data"
+			],
+			[
+				"Ta",
+				"TagSerializer"
+			],
+			[
+				"ge",
+				"generics"
+			],
+			[
+				"Mode",
+				"ModelSerializer"
+			],
+			[
+				"val",
+				"validated_data"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"Fo",
+				"ForeignKey"
+			],
+			[
+				"un",
+				"unfavorite\t(models.py)"
+			],
+			[
+				"A",
+				"ArticleJSONRenderer"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"ar",
+				"article_slug"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"Pr",
+				"Profile\t(models.py)"
+			],
+			[
+				"arti",
+				"article_slug"
+			],
+			[
+				"per",
+				"permission_classes"
+			],
+			[
+				"Ser",
+				"serializer_context"
+			],
+			[
+				"s",
+				"serializer_class"
+			],
+			[
+				"profi",
+				"profile\t(models.py)"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"favor",
+				"favoriteCount"
+			],
+			[
+				"HT",
+				"HTTP_200_OK"
+			],
+			[
+				"se",
+				"serializer_instance"
+			],
+			[
+				"error",
+				"error_key"
+			],
+			[
+				"ra",
+				"raise_exception"
+			],
+			[
+				"No",
+				"NotFound"
+			],
+			[
+				"object",
+				"object_label_plural\t(renderers.py)"
+			],
+			[
+				"Co",
+				"ConduitJSONRenderer"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"MA",
+				"MAXIMUM_SLUG_LENGTH"
+			],
+			[
+				"slu",
+				"slugify"
+			],
+			[
+				"DEFA",
+				"DEFAULT_CHAR_STRING"
+			],
+			[
+				"pro",
+				"profile\t(views.py)"
+			],
+			[
+				"I",
+				"IsAuthenticatedOrReadOnly"
+			],
+			[
+				"sle",
+				"select_related\t(views.py)"
+			],
+			[
+				"res",
+				"rest_framework"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"obj",
+				"objects\t(views.py)"
+			],
+			[
+				"Model",
+				"ModelSerializer\t(serializers.py)"
+			],
+			[
+				"Pro",
+				"ProfileSerializer\t(serializers.py)"
+			],
+			[
+				"T",
+				"TimestampedModel\t(models.py)"
+			],
+			[
+				"vai",
+				"validated_data"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"P",
+				"ProfileJSONRenderer"
+			],
+			[
+				"R",
+				"RetrieveAPIView"
+			],
+			[
+				"C",
+				"ConduitJSONRenderer"
+			],
+			[
+				"ob",
+				"object_label"
+			],
+			[
+				"cour",
+				"courseHeights"
+			],
+			[
+				"dom",
+				"domain_list"
+			],
+			[
+				"activ",
+				"activation_key"
+			],
+			[
+				"acti",
+				"activation_key\t(models.py)"
+			],
+			[
+				"H",
+				"HTTP_200_OK"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"SE",
+				"SECRET_KEY\t(settings.py)"
+			],
+			[
+				"User",
+				"UserManager"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"dea",
+				"default"
+			],
+			[
+				"create",
+				"create_user"
+			],
+			[
+				"self",
+				"self,request"
+			],
+			[
+				"wall",
+				"wallSols"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"image",
+				"imageLib"
+			],
+			[
+				"im",
+				"imageLib"
+			],
+			[
+				"buil",
+				"buildImageLibrary"
+			],
+			[
+				"confirm",
+				"confirmWindows"
+			],
+			[
+				"Wall",
+				"WallModel"
+			],
+			[
+				"Blo",
+				"BlockLibraryDB"
+			],
+			[
+				"BlockL",
+				"BlockLibraryDB\t(wall_ops.py)"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"wallsk",
+				"wallSkuReq"
+			],
+			[
+				"Bl",
+				"BlockSerializer"
+			],
+			[
+				"Blco",
+				"BlockLibrary"
+			],
+			[
+				"wind",
+				"windowImg"
+			],
+			[
+				"wallSk",
+				"wallSkuReq"
+			],
+			[
+				"doo",
+				"doorRange"
+			],
+			[
+				"no",
+				"noDoorRange"
+			],
+			[
+				"door",
+				"doorRange"
+			],
+			[
+				"pl",
+				"placeDoors"
+			],
+			[
+				"In",
+				"IntegerField"
+			],
+			[
+				"opt",
+				"optBlockList"
+			],
+			[
+				"blk",
+				"blkListB"
+			],
+			[
+				"max",
+				"max_sols"
+			],
+			[
+				"coun",
+				"countBlocks"
+			],
+			[
+				"cou",
+				"courses"
+			],
+			[
+				"build",
+				"buildWall"
+			],
+			[
+				"poss",
+				"possBlockFit"
+			],
+			[
+				"in",
+				"inventory"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ret",
+		"selected_items":
+		[
+			[
+				"ret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: Lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Add Channel"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"tsc sample.ts",
+			"exit()",
+			"ls",
+			"view.options().get('wordWrap')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jessemcclure/Dropbox (Personal)/Code/FFLPython/2017/ScoreTracker_0.2/django_scrapy"
+	],
+	"file_history":
+	[
+		"/Users/jessemcclure/Dropbox (Personal)/Code/FFLPython/2017/tutorial/quotes.json",
+		"/Users/jessemcclure/.gitignore_global",
+		"/Users/jessemcclure/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jessemcclure/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/wallbuilder2.sublime-project",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/derrick/views.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/docker/docker-compose.yml",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/docker/app.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/docker/requirements.txt",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/docker/Dockerfile",
+		"/Users/jessemcclure/.ssh/known_hosts",
+		"/Users/jessemcclure/Downloads/Production and Quote Object Test Plan (1).json",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/portfolio/startbootstrap-freelancer-4-dev/index.html",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/skins/serializers.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/deploy_tools/sample_data/sfLineItem001.json",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/deploy_tools/sample_data/sfLineItem002.json",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/salesforce/models.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/salesforce/tests.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/deploy_tools/sample_data/skin003.json",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/plans/views.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/plans/models.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/skins/urls.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/skins/views.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/skins/admin.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/plans/serializers.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/es_wallbuilder2/urls.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/deploy_tools/sample_data/sfLineItems001.json",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/es_wallbuilder2/settings.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/salesforce/views.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/httpie-commands.txt",
+		"/Users/jessemcclure/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/D6231CD7-F892-444F-A54A-9C51B60D9CB5/Final_Project.m",
+		"/Users/jessemcclure/Dropbox (Mind Rocket)/Emagispace/MFG&SC/Engineering/.gitignore",
+		"/Users/jessemcclure/.bash_profile",
+		"/Users/jessemcclure/.bashrc",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/emagidocs/source/functional_tests/http-cmds.txt",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/emagidocs/source/functional_tests/sample_data/part001.json",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/MAE4120/MAE4120/lectures/data_2.csv",
+		"/Users/jessemcclure/Desktop/How to Install/Instructions.webloc",
+		"/Users/jessemcclure/Downloads/bill_data.json",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Sleep Shepherd v2/ss_api1/ss_api1.sublime-project",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/MAE4120/MAE4120/.gitignore",
+		"/Users/jessemcclure/.gitignore",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/exacme_tramp/source/deploy_tools/MacbookSetup.md",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/jupyterhub-DO/supervisor_jupyterhub.txt",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/deploy_tools/fab_deploy.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/deploy_tools/httpie-commands.txt",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/deploy_tools/fab_server.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/deploy_tools/fab_root.py",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/requirements.txt",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/WallBuilder_2/es_wallbuilder2/.gitignore",
+		"/Users/jessemcclure/Dropbox (Personal)/Code/Emagispace/django-fileserver/django-fileserver/.gitignore",
+		"/Users/jessemcclure/Dropbox (Personal)/ServerSetup_v3.txt",
+		"/Users/jessemcclure/Dropbox/Thinkster/typescript/sample.js",
+		"/Users/jessemcclure/Dropbox/Thinkster/typescript/sample.ts",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/sampleData/article002.json",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/sampleData/article001.json",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/articles/models.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/profiles/models.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/core/exceptions.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/sampleData/user001.json",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/sampleData/user002.json",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/authentication/views.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/profiles/views.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/profiles/serializers.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/authentication/serializers.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/authentication/renderers.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/profiles/renderers.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/core/renderers.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/urls.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/profiles/urls.py",
+		"/Users/jessemcclure/Dropbox/Thinkster/conduit-django/conduit/apps/profiles/exceptions.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/password_reset/templates/password_reset/recovery_done.html",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/password_reset/templates/password_reset/recovery_form.html",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/app/templates/builder.html",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/app/favicon.ico",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/WallBuilder.sublime-project",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/API-WallBuilder.md",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/httpie-cmds.txt",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/register/urls.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/register/views.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/register/serializers.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/register/admin.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/register/models.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/es_wallbuilder/settings.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallbuilder/views.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/sampleData/wallPlan001.json",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/sampleData/wall001.json",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/sampleData/wall002.json",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallbuilder/models.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallbuilder/urls.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/static/wallbuilder/images/57.png",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/WallBuilder-Objects.md",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/sampleData/wall004.json",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/sampleData/wall003.json",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/db_ops/model_ops.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallbuilder/admin.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/es_wallbuilder/urls.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/db_ops/WallBuilder v1 Testbook.ipynb",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/es_wallbuilder/__init__.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/db_ops/__init__.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallbuilder/serializers.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallbuilder/db_ops/model_ops.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/documentation/sampleData/wallPlan002.json",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallplan/views.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallplan/urls.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallplan/models.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallbuilder/apps.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallplan/admin.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallplan/serializers.py",
+		"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/wallplan/apps.py",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/.gitignore",
+		"/Users/jessemcclure/Dropbox/ServerSetup_v3.txt",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/api1_to_json/mcscruf61/mcscruf61_raw_175.json",
+		"/Users/jessemcclure/Dropbox/Websites/SIRA/index.html",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/index.html",
+		"/Users/jessemcclure/Dropbox/Thinkster/angularjs-realworld-example-app/src/js/auth/show-authed.directive.js",
+		"/Users/jessemcclure/Dropbox/Thinkster/mean-stack-02/index.html",
+		"/Users/jessemcclure/Dropbox/Thinkster/mean-stack-02/app.js",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/ss_api1/settings.py",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/ss_api1/urls.py",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/api2_to_api1/412449_06.json",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/sleeps/urls.py",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/sample_data/data07.json",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/ssbProfile/urls.py",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/ssbProfile/views.py",
+		"/Users/jessemcclure/Dropbox/jrm_tramp/.gitignore",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/ssbProfile/serializers.py",
+		"/Users/jessemcclure/Dropbox/Sleep Shepherd v2/ss_api1/sleeps/models.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/jessemcclure/Dropbox (Personal)/Code/Sleep Shepherd v2/ss_api1",
+			"/Users/jessemcclure/Dropbox (Personal)/Emagispace/WallBuilder/password_reset",
+			"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/",
+			"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/app",
+			"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/password_reset",
+			"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder/password_reset.xyz",
+			"/Users/jessemcclure/Dropbox/Emagispace/WallBuilder",
+			"<open files>",
+			"/Users/jessemcclure/Dropbox/Web_App_Test",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ES_PRICEBOOK",
+			"ES_NAMES",
+			"https://www.google.com/maps/place/Bob+Hope+Airport+(BUR)/@34.2397923,-118.3425548,9.37z/data=!4m5!3m4!1s0x80c2944d39cf4379:0x6de1181bf1d805f1!8m2!3d34.1983122!4d-118.3574036",
+			"web_tools",
+			"parseLineItem",
+			"productCode",
+			"ES_PRICEBOOK",
+			"print",
+			"profile",
+			"product",
+			"tent",
+			"NaN,",
+			"N",
+			"recalculateTrends",
+			"getAverages",
+			"login",
+			"placeReqBlocks",
+			"frame",
+			"print(",
+			"Username",
+			"wallSkuReq",
+			"favicon",
+			"wallbuilder/password/recover/",
+			".xyz",
+			"UserSerializer",
+			"send_mail",
+			"sleepshepherd.com",
+			"no-reply@sleepshepherd.com",
+			"webmaster@localhost",
+			"WallIm",
+			"optimumBlockList",
+			"confirm",
+			"placeWindows",
+			"placeDoors",
+			"placeDoor",
+			"wallSkuReq",
+			"blockLibrary",
+			"BlockLibraryDB",
+			"Block(",
+			"Door(",
+			"Block(",
+			"blockID",
+			"BlockLibrary",
+			"Wall",
+			"Block",
+			"BlockLibrary",
+			"optimizeWall",
+			"print(",
+			"\"id\"",
+			".id",
+			"db_ops",
+			"tag:",
+			"serves",
+			"ArticlesList",
+			"rawVersion",
+			"pro",
+			"proVersion",
+			"2017",
+			" print(",
+			"getTips",
+			"print(",
+			"classify",
+			"traceback:",
+			"print(",
+			"date",
+			"self.plan",
+			"load_module",
+			"blank",
+			".jpg",
+			"TITLE_FONT",
+			"startTime",
+			"sigStrength",
+			"motionCount",
+			"rating",
+			"timeOffset",
+			"Az",
+			"Ay",
+			"Ax",
+			"endTime",
+			"tones",
+			"blocksUsed",
+			"print",
+			"processMotion",
+			"http://",
+			"$http",
+			"jrmcclure",
+			"motionCount",
+			"DATETIME_FORMAT",
+			"tone",
+			"tones",
+			"Snippet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.plan.recipe",
+			"rawStartTime",
+			"rawSig",
+			"rawMotion",
+			"rawRating",
+			"rawTimezoneOffset",
+			"rawAz",
+			"rawAy",
+			"rawAx",
+			"rawEndTime",
+			"rawTones",
+			"Sleep"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "django_scrapy.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
