@@ -1,7 +1,5 @@
 from django.db import models
 
-# Create your models here.
-
 
 class TeamScore(models.Model):
     teamId = models.SmallIntegerField(db_index=True)
@@ -12,15 +10,21 @@ class TeamScore(models.Model):
     oppName = models.CharField(max_length=255)
     time = models.DateTimeField(null=True)
     week = models.SmallIntegerField(db_index=True)
-    tmTotalPts = models.DecimalField(default=0.0, decimal_places=1, max_digits=4)
-    oppTotalPts = models.DecimalField(default=0.0, decimal_places=1, max_digits=4)
-    team_pts_diff = models.DecimalField(default=0.0, decimal_places=1, max_digits=4)
+    tmTotalPts = models.DecimalField(
+        default=0.0, decimal_places=1, max_digits=4)
+    oppTotalPts = models.DecimalField(
+        default=0.0, decimal_places=1, max_digits=4)
+    team_pts_diff = models.DecimalField(
+        default=0.0, decimal_places=1, max_digits=4)
     team_ytp = models.SmallIntegerField(default=0)
     team_ip = models.SmallIntegerField(default=0)
     team_pmr = models.SmallIntegerField(default=0)
-    team_liveproj = models.DecimalField(default=0.0, decimal_places=1, max_digits=4)
-    opp_liveproj = models.DecimalField(default=0.0, decimal_places=1, max_digits=4)
-    team_proj_diff = models.DecimalField(default=0.0, decimal_places=1, max_digits=4)
+    team_liveproj = models.DecimalField(
+        default=0.0, decimal_places=1, max_digits=4)
+    opp_liveproj = models.DecimalField(
+        default=0.0, decimal_places=1, max_digits=4)
+    team_proj_diff = models.DecimalField(
+        default=0.0, decimal_places=1, max_digits=4)
     final = models.BooleanField(default=False)
 
     def __str__(self):

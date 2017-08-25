@@ -1,3 +1,9 @@
-from django.shortcuts import render
+from django.http import HttpResponse
 
-# Create your views here.
+from .tasks import scrap_btls_scoreboard
+
+
+def test_view(request):
+    scrap_btls_scoreboard()
+    html = "<html><body>It is now.</body></html>"
+    return HttpResponse(html)
